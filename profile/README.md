@@ -1,4 +1,4 @@
-### <p align="center">👋 Bienvenue dans le journal GitHub officiel de John-Bot !</p>
+## 👋 Welcome to the official GitHub journal of John-Bot!
 
 <p align="center">
   <a href="https://johnbot.app">Site web</a> •
