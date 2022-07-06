@@ -6,5 +6,3 @@
   <a href="https://help.johnbot.app">Documentation</a> •
   <a href="https://discord.gg/WZpt42FzcA">Discord</a>
 </p>
-
----
