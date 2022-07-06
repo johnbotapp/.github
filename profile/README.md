@@ -1,1 +1,1 @@
-## 👋 Bienvenue dans le journal GitHub officiel de John-Bot !
+### 👋 Bienvenue dans le journal GitHub officiel de John-Bot !
