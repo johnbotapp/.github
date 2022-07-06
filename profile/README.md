@@ -1,9 +1,11 @@
-### 👋 Bienvenue dans le journal GitHub officiel de John-Bot !
+### <p align="center">
+  <a>👋 Bienvenue dans le journal GitHub officiel de John-Bot !</a>
+  </p>
 
 <p align="center">
   <a href="https://johnbot.app">Site web</a> •
   <a href="https://add.johnbot.app">Ajouter John-Bot</a> •
   <a href="https://help.johnbot.app">Documentation</a> •
   <a href="https://discord.gg/WZpt42FzcA">Discord</a> •
-  <a href="">Crédits</a> •
+  <a href="">Crédits</a>
 </p>
