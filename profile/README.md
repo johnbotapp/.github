@@ -7,3 +7,5 @@
   <a href="https://discord.gg/WZpt42FzcA">Discord</a> •
   <a href="">Crédits</a>
 </p>
+
+---
