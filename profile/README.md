@@ -1,9 +1,9 @@
 ### 👋 Bienvenue dans le journal GitHub officiel de John-Bot !
-[Ajouter John-Bot](https://add.johnbot.app) • [Documentation](https://help.johnbot.app) • [Discord](https://discord.gg/abePbS7QKY)
+[Documentation](https://help.johnbot.app) • [Discord](https://discord.gg/abePbS7QKY)
 
 <p align="center">
-  <a href="Site web">https://johnbot.app</a> •
-  <a href="#how-to-use">How To Use</a> •
+  <a href="https://johnbot.app">Site web</a> •
+  <a href="https://add.johnbot.app">Ajouter John-Bot</a> •
   <a href="#download">Download</a> •
   <a href="#credits">Credits</a> •
   <a href="#related">Related</a> •
