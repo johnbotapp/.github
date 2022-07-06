@@ -1,5 +1,5 @@
 ### <p align="center">
-  <a>👋 Bienvenue dans le journal GitHub officiel de John-Bot !</a>
+  👋 Bienvenue dans le journal GitHub officiel de John-Bot !
   </p>
 
 <p align="center">
