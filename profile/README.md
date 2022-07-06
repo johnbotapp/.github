@@ -3,7 +3,7 @@
 <p align="center">
   <a href="https://johnbot.app">Site web</a> •
   <a href="https://add.johnbot.app">Ajouter John-Bot</a> •
-  <a href="#download">Documentation</a> •
-  <a href="#credits">Discord</a> •
-  <a href="#related">Crédits</a> •
+  <a href="https://help.johnbot.app">Documentation</a> •
+  <a href="https://discord.gg/WZpt42FzcA">Discord</a> •
+  <a href="">Crédits</a> •
 </p>
