@@ -7,6 +7,9 @@ Namely, most of the people working in the team are not paid and running the John
 **[Buy Me a Coffee](https://www.buymeacoffee.com/johnbot)** ↗️
 
 ### 🧙‍♂️ Table of contributors & donators
-[![](https://github.com/Zzerium.png?size=100)](https://github.com/Zzerium)ㅤ[![](https://github.com/nneeeeldoooox.png?size=40)](https://github.com/nneeeeldoooox)
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/Zzerium"><img src="https://github.com/Zzerium.png?size=100" width="100px;" alt=""/><br /><sub><b>Zzerium (Alexis™)</b></sub></a><br /><a href="https://allcontributors.org/docs/en/emoji-key" title="Business Development">💼</a> <a href="https://allcontributors.org/docs/en/emoji-key" title="Code">💻</a> <a href="https://allcontributors.org/docs/en/emoji-key" title="Documentation">📖</a> <a href="https://allcontributors.org/docs/en/emoji-key" title="Financial Support">💵</a> <a href="https://allcontributors.org/docs/en/emoji-key" title="Ideas & Planning">🤔</a> <a href="https://allcontributors.org/docs/en/emoji-key" title="Project Management">📆</a> <a href="https://allcontributors.org/docs/en/emoji-key" title="Infrastructure">🚇</a></td>
+  </tr>
 
 <sub>Special thanks to the [contributors](https://github.com/JohnBotDiscord) of this wonderful presentation! 😊</sub>
