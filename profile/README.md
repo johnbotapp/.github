@@ -9,4 +9,4 @@ Namely, most of the people working in the team are not paid and running the John
 **[buymeacoffee.com/johnbot](https://www.buymeacoffee.com/johnbot)** ↗️
 
 ### 🧙‍♂️ Contributors and Donators
-[<img src="https://johnbot.app/assets/LogoForGitHubBio.png" width="50"/>](https://github.com/JohnBotDiscord)
+[<img src="https://johnbot.app/assets/LogoForGitHubBio.png" width="30"/>](https://github.com/JohnBotDiscord)
