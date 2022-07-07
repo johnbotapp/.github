@@ -6,7 +6,7 @@ Namely, most of the people working in the team are not paid and running the John
 
 **[Buy Me a Coffee](https://www.buymeacoffee.com/johnbot)** ↗️
 
-### 🧙‍♂️ Table of our team & contributors
+### 🧙‍♂️ Our team and the contributors
 <details> 
 	<summary>":D"</summary>
 	<br>
