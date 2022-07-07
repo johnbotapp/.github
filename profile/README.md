@@ -9,5 +9,8 @@ Namely, most of the people working in the team are not paid and running the John
 **[Our Buy Me a Coffee](https://www.buymeacoffee.com/johnbot)** ↗️
 
 ### 🧙‍♂️ Contributors and Donators
+<a href="https://github.com/JohnBotDiscord/.github/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=JohnBotDiscord/.github" />
+</a>
 
 <sub>Special thanks to the [contributors](https://github.com/JohnBotDiscord) of this wonderful presentation! 😊</sub>
