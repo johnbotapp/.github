@@ -8,7 +8,7 @@ Namely, most of the people working in the team are not paid and running the John
 
 ### 🧙‍♂️ Our team and the contributors
 <details> 
-	<summary>**We decided to minimize this section. Click to see the entire section!**</summary>
+	<summary>We decided to minimize this section. Click to see the entire section! 👀</summary>
 	<br>
 <table>
   <tr>
