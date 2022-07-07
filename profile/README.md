@@ -6,7 +6,7 @@ Hi there, well yes, we are on **GitHub**! After several decisions with the team,
 ### 💕 Thank you and support us
 Namely, most of the people working in the team are not paid and running the John-Bot ecosystem is costly. That's why we have a Buy Me a Coffee. You are not obliged to make a donation, it is a gesture of support nothing less. No donation is forced by our team. 💗
 
-**[buymeacoffee.com/johnbot](https://www.buymeacoffee.com/johnbot)** ↗️
+**[Our Buy Me a Coffee](https://www.buymeacoffee.com/johnbot)** ↗️
 
 ### 🧙‍♂️ Contributors and Donators
 [<img src="https://johnbot.app/assets/LogoForGitHubBio.png" width="30"/>](https://github.com/JohnBotDiscord)
