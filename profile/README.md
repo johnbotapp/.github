@@ -9,7 +9,6 @@ Namely, most of the people working in the team are not paid and running the John
 **[Our Buy Me a Coffee](https://www.buymeacoffee.com/johnbot)** ↗️
 
 ### 🧙‍♂️ Contributors and Donators
-[![](https://avatars.githubusercontent.com/u/87914117?v=4?width=890&button=false)](https://github.com/)
 
 
 [<img src="https://avatars.githubusercontent.com/u/87914117?v=4" width="50"/>](https://github.com/Zzerium)
