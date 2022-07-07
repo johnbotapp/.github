@@ -9,4 +9,4 @@ Namely, most of the people working in the team are not paid and running the John
 
 **[buymeacoffee.com/johnbot](https://www.buymeacoffee.com/johnbot)** ↗️
 
-### 🧙‍♂️ Contributors & Donators
+### 🧙‍♂️ Contributors and Donators
