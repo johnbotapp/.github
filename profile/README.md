@@ -3,10 +3,12 @@ Hi there, well yes, we are on **GitHub**! After several decisions with the team,
 
 ### 💻 Helping to contribute to the ecosystem
 
+**[John-Bot for Contributors](https://johnbot.app/contributors)** ↗️
+
 ### 💕 Thank you and support us
 Namely, most of the people working in the team are not paid and running the John-Bot ecosystem is costly. That's why we have a Buy Me A Coffee. You are not obliged to make a donation, it is a gesture of support nothing less. No donation is forced by our team. 💗
 
-**[Our Buy Me a Coffee](https://www.buymeacoffee.com/johnbot)** ↗️
+**[Buy Me a Coffee](https://www.buymeacoffee.com/johnbot)** ↗️
 
 ### 🧙‍♂️ Contributors and Donators
 [![](https://github.com/Zzerium.png?size=40)](https://github.com/Zzerium)ㅤ[![](https://github.com/nneeeeldoooox.png?size=40)](https://github.com/nneeeeldoooox)
