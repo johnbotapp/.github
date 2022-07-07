@@ -10,5 +10,4 @@ Namely, most of the people working in the team are not paid and running the John
 
 ### 🧙‍♂️ Contributors and Donators
 
-
-[<img src="https://avatars.githubusercontent.com/u/87914117?v=4" width="50"/>](https://github.com/Zzerium)
+<sub>Special thanks to the [contributors](https://github.com/JohnBotDiscord) of this wonderful presentation! 😊</sub>
