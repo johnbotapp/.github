@@ -8,4 +8,5 @@ Namely, most of the people working in the team are not paid and running the John
 
 ### 🧙‍♂️ Table of contributors & donators
 [![](https://github.com/Zzerium.png?size=40)](https://github.com/Zzerium)ㅤ[![](https://github.com/nneeeeldoooox.png?size=40)](https://github.com/nneeeeldoooox)ㅤ[![](https://github.com/ElonMusk.png?size=40)](https://github.com/ElonMusk)
+
 <sub>Special thanks to the [contributors](https://github.com/JohnBotDiscord) of this wonderful presentation! 😊</sub>
