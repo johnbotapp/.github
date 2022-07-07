@@ -4,4 +4,4 @@ Hi there, well yes, we are on **GitHub**! After several decisions with the team,
 
 ### 💻 Helping to contribute to the ecosystem
 
-### 💕 Thank you and support us!
+### 💕 Thank you and support us
