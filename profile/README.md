@@ -18,4 +18,6 @@ Namely, most of the people working in the team are not paid and running the John
     <td align="center"><a href="https://github.com/Thomas-Roussel"><img src="https://github.com/Thomas-Roussel.png?size=100" width="100px;" alt=""/><br /><sub><b>Thomas Roussel</b></sub></a><br /><a href="https://allcontributors.org/docs/en/emoji-key" title="Code">💻</a> <br />ㅤ</td>
     <td align="center"><a href="https://dribbble.com/Slint"><img src="https://cdn.discordapp.com/avatars/652390240169885706/5103b3d98b99ae3fa0fa1f87634d091f.png" width="100px;" alt=""/><br /><sub><b>Slint</b></sub></a><br /><a href="https://allcontributors.org/docs/en/emoji-key" title="Design">🎨</a> <br />ㅤ</td>
    </tr>
-</details> 
+</details>
+
+<!-- Written by Alexis™ & Neldox -->
