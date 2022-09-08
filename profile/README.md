@@ -20,4 +20,4 @@ Namely, most of the people working in the team are not paid and running the John
    </tr>
 </details>
 
-<!-- Written by Alexis™ & Neldox -->
+<!-- Written by Alexis & Neldox -->
