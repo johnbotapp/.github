@@ -1,6 +1,4 @@
-### 👋🌎, Welcome to the official GitHub organization of John-Bot!
-
----
+# 👋🌎, Welcome to the official GitHub organization of John-Bot!
 
 <p>
   <a href="https://johnbot.app">
