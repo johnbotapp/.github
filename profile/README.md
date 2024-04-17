@@ -4,7 +4,7 @@
   <a href="https://johnbot.app">
     <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.johnbot.app%2Fstats&query=data.guilds&label=servers">
   </a>
-  <a href="https://johnbot.app">
+  <a href="https://crowdin.johnbot.app">
     <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.johnbot.app%2Fstats&query=data.users&label=users">
   </a>
   <a href="https://crowdin.com/project/johnbot">
