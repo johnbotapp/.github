@@ -20,9 +20,10 @@ jobs:
           users_fmt=$(printf "%'d" "$users")
           guilds_fmt=$(printf "%'d" "$guilds")
           sed -i -E "s/used by [0-9,]+ users \(over [0-9,]+ servers/used by $users_fmt users (over $guilds_fmt servers/" profile/README.md
-      - run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add stats.json README.md
-          git commit -m "Update stats in README.md"
+      - name: Commit and Push Changes
+        run: |
+          git config --local user.name "github-actions"
+          git config --local user.email "github-actions@github.com"
+          git add stats.json profile/README.md
+          git diff --quiet && git diff --staged --quiet || git commit -m "Update stats in README.md"
           git push
