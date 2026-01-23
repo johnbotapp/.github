@@ -15,6 +15,6 @@
   </a>
 </p>
 
-Hi there, well yes, we are on **GitHub**! **John-Bot** is a multipurpose Discord bot, used by 5,066,536 users (over 27,706 servers, thank you! ✨) Not satisfied? It includes many features: **ticketing**, **moderation**, **leveling**, **giveaways**, **join/leave messages**, **a web Dashboard** and much **more**! 🏄 Add **John-Bot** to your Discord server now by clicking **[here](https://discord.com/oauth2/authorize?client_id=958547309728256081&permissions=8&response_type=code&redirect_uri=https%3A%2F%2Fapi.johnbot.app%2Fauth%2Fdiscord%2Fcallback%2Fguild&scope=bot&state=r=github)** ↗️.
+Hi there, well yes, we are on **GitHub**! **John-Bot** is a multipurpose Discord bot, used by 5,077,718 users (over 27,734 servers, thank you! ✨) Not satisfied? It includes many features: **ticketing**, **moderation**, **leveling**, **giveaways**, **join/leave messages**, **a web Dashboard** and much **more**! 🏄 Add **John-Bot** to your Discord server now by clicking **[here](https://discord.com/oauth2/authorize?client_id=958547309728256081&permissions=8&response_type=code&redirect_uri=https%3A%2F%2Fapi.johnbot.app%2Fauth%2Fdiscord%2Fcallback%2Fguild&scope=bot&state=r=github)** ↗️.
 
 [![John-Bot](https://cdn.johnbot.app/img/banner/small-space.png)](https://johnbot.app)
